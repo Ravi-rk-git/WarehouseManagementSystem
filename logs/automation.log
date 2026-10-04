@@ -1,0 +1,81 @@
+17:13:35:923 [main] INFO  testCases.TC001_LoginTest - Successfully Navigated to Upload File screen And After File Uploaded Successfully, clicked on UploadButton.
+17:13:40:008 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC014_InterfaceFileUplaodCreatePurchaseOrderCSV Test ***************
+17:13:40:010 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC015_TransactionLog Test **********
+17:13:40:010 [main] INFO  testCases.TC001_LoginTest - Entring Into Transaction Log Screen..
+17:13:41:607 [main] INFO  testCases.TC001_LoginTest - System Successfully Navigated To Transaction Log Page & Able to View the Records List
+17:14:21:324 [main] INFO  testCases.TC001_LoginTest - Waiting For The File Status Changes To 'Success'
+17:14:21:419 [main] INFO  testCases.TC001_LoginTest - Now File Status is Success & Successfully Clicked On Receipts.
+17:14:21:419 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC015_TransactionLog Test ***************
+15:25:10:671 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC001_LoginPage Test **********
+15:25:10:767 [main] INFO  testCases.TC001_LoginTest - ********** UserName is Entered **********
+15:25:10:862 [main] INFO  testCases.TC001_LoginTest - ********** Password Entered **********
+15:25:10:968 [main] INFO  testCases.TC001_LoginTest - ********** Successfully Clicked On Login Button **********
+15:25:16:023 [main] INFO  testCases.TC001_LoginTest - ********** Validating Expected Message.. **********
+15:25:16:026 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC001_LoginTest ***************
+15:25:16:039 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC002 HomePage Test **********
+15:25:17:991 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC002 HomePage Test ***************
+15:25:18:004 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC003_CreatePurchaseOrder Test **********
+15:25:18:004 [main] INFO  testCases.TC001_LoginTest - Started Into Purchase Order Creation..
+15:25:18:377 [main] INFO  testCases.TC001_LoginTest - Successfully navigated to Create Purchase Order Screen
+15:25:18:377 [main] INFO  testCases.TC001_LoginTest - Passing supplier, TradeTerm, OrderType & ShipMode..
+15:25:20:732 [main] INFO  testCases.TC001_LoginTest - Successfully Set supplier, TradeTerm, OrderType & ShipMode..
+15:25:21:213 [main] INFO  testCases.TC001_LoginTest - Successfully set Puchase RefNo and Today Date Picker
+15:25:21:213 [main] INFO  testCases.TC001_LoginTest - Started.. Adding SKU Codes into the PO Gride..
+15:25:37:682 [main] INFO  testCases.TC001_LoginTest - Successfully Added all the SKUs to Po Gride.
+15:25:37:682 [main] INFO  testCases.TC001_LoginTest - Started Entering Quantity into each SKUs..
+15:25:39:667 [main] INFO  testCases.TC001_LoginTest - Successfully Entered all the Quantities and Clicked On SavePurchaseOrder.
+15:25:45:009 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC003_CreatePurchaseOrder Test ***************
+15:25:45:015 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC004_CreateAdvancedShippingNotices Test **********
+15:25:45:015 [main] INFO  testCases.TC001_LoginTest -  Started Navigating to Create ASN Screen..
+15:25:45:663 [main] INFO  testCases.TC001_LoginTest -  Successfully Navigated to Create ASN Screen.
+15:25:46:249 [main] INFO  testCases.TC001_LoginTest - Started Set SupplierCode and Clicking on Header Checkbox..
+15:25:46:793 [main] INFO  testCases.TC001_LoginTest - Successfully Set SupplierCode and Clicking on Header Checkbox..
+15:25:46:897 [main] INFO  testCases.TC001_LoginTest - Started Set ShipForm, TradeTerm, ShipMode, TodayDatePicker..
+15:25:47:798 [main] INFO  testCases.TC001_LoginTest - Successfully Set ShipForm, TradeTerm, ShipMode, TodayDatePicker.
+15:25:47:929 [main] INFO  testCases.TC001_LoginTest - Started Providing Details To Vehicle Detail Page..
+15:25:55:408 [main] INFO  testCases.TC001_LoginTest - Successfully Set VehicleNo, VehicleName, ContainerDetails, TrailerDetails etc..
+15:25:55:408 [main] INFO  testCases.TC001_LoginTest - Started Chossing Existing PO Details...
+15:26:10:761 [main] INFO  testCases.TC001_LoginTest - Successfully Chossen Existing PO Details...
+15:26:10:763 [main] INFO  testCases.TC001_LoginTest - Started Providing Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+15:26:24:360 [main] INFO  testCases.TC001_LoginTest - Successfully Provided Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+15:26:25:603 [main] INFO  testCases.TC001_LoginTest - Successfully Clicked on NEXT button & Navigated to Next page of Create ASN.
+15:26:28:169 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC004_CreateAdvancedShippingNotices Test ***************
+15:26:28:177 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC005_CreateVehicleIn Test **********
+15:26:28:177 [main] INFO  testCases.TC001_LoginTest - Entering To Create Vehicle In Screen..
+15:26:30:713 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Vehicle In Screen.
+15:26:30:713 [main] INFO  testCases.TC001_LoginTest - Searching.. for Vehicle Number..
+15:26:36:538 [main] INFO  testCases.TC001_LoginTest - Vehicle Number Is Successfully Selected.
+15:26:36:538 [main] INFO  testCases.TC001_LoginTest - Entered Into Operation Type Selection Section..
+15:26:40:354 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Operation Type and Navigated to Next screen.
+15:26:40:354 [main] INFO  testCases.TC001_LoginTest - Enter Into the Transaction Type Section..
+15:26:40:854 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and To-Location.
+15:26:45:193 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC005_CreateVehicleIn Test ***************
+15:26:45:193 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC006_CreateInboundInstructionBySupInvNo Test **********
+15:26:45:197 [main] INFO  testCases.TC001_LoginTest - Entering into Create Inbound InstSupInvNo Screen.. 
+15:26:46:348 [main] INFO  testCases.TC001_LoginTest - Successfully Entered into Create Inbound InstSupInvNo Screen.. 
+15:26:46:348 [main] INFO  testCases.TC001_LoginTest - Navigating to Transaction Type Screen..
+15:26:46:692 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type.
+15:26:51:602 [main] INFO  testCases.TC001_LoginTest - Entering Into Action Screen Of Create Inbount Instruction SupIn..
+15:26:52:891 [main] INFO  testCases.TC001_LoginTest - Successfully Created Inbount Instruction SupIn.
+15:27:02:566 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC006_CreateInboundInstructionBySupInvNo Test ***************
+15:27:02:566 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC020_ConfirmInboundInstructionPacksExceptions Test **********
+15:27:02:566 [main] INFO  testCases.TC001_LoginTest - Entering Into the Confirm Inbound Instruction Packs Screen..
+15:27:03:306 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Inbound Instruction Packs screen.
+15:27:03:306 [main] INFO  testCases.TC001_LoginTest - Navigating To Transaction Type screen..
+15:27:03:719 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and Clicked On Search Button.
+15:27:06:859 [main] INFO  testCases.TC001_LoginTest - Entering Into the Action Screen of ConfirmInboundPacks and Applying Packs Status..
+15:27:10:016 [main] INFO  testCases.TC001_LoginTest - Successfully Applied Packs Status and Confirm Inbound Pack Created Successfully.
+15:27:15:717 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC020_ConfirmInboundInstructionPacksExceptions Test ***************
+15:27:15:722 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC021_ExceptionsPacksMovementsInInventory Test **********
+15:27:15:723 [main] INFO  testCases.TC001_LoginTest - Started Clicking On Inventory Header & Create Packs Exceptions..
+15:27:18:606 [main] INFO  testCases.TC001_LoginTest - Successfully Clicked On Inventory Header & Create Packs Exceptions.
+15:27:19:734 [main] INFO  testCases.TC001_LoginTest - Successfully selected Exception Type: Shortage.
+15:27:21:575 [main] INFO  testCases.TC001_LoginTest - Successfully Clicked On Header Checkbox.
+15:27:21:695 [main] INFO  testCases.TC001_LoginTest - Successfully Navigated To Action Screen.
+15:27:22:862 [main] INFO  testCases.TC001_LoginTest - Successfully Selected All DropDowns for SKUQAAndBinningShtgApproval & Clicked Save-Changes.
+15:27:26:269 [main] INFO  testCases.TC001_LoginTest - Started Reporting Damage Approval..
+15:27:30:464 [main] INFO  testCases.TC001_LoginTest - Successfully selected Exception Type: Damage. 
+15:27:32:364 [main] INFO  testCases.TC001_LoginTest - Successfully Clicked On Header Checkbox.
+15:27:32:487 [main] INFO  testCases.TC001_LoginTest - Successfully Navigated To Action Screen.
+15:27:34:054 [main] INFO  testCases.TC001_LoginTest - Successfully Set All the Damage-Approval TransactionTypes & Save Chnages Is Clicked.
+15:27:37:517 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC021_ExceptionsPacksMovementsInInventory Test ***************

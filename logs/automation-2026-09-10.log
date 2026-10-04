@@ -1,0 +1,477 @@
+16:29:56:561 [main] INFO  testCases.TC001_LoginTest - Searching.. for Vehicle Number..
+16:30:02:285 [main] INFO  testCases.TC001_LoginTest - Vehicle Number Is Successfully Selected.
+16:30:02:285 [main] INFO  testCases.TC001_LoginTest - Entered Into Operation Type Selection Section..
+16:30:05:955 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Operation Type and Navigated to Next screen.
+16:30:05:955 [main] INFO  testCases.TC001_LoginTest - Enter Into the Transaction Type Section..
+16:30:06:341 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and To-Location.
+16:30:11:856 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC005_CreateVehicleIn Test ***************
+16:30:11:859 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC006_CreateInboundInstructionBySupInvNo Test **********
+16:30:11:859 [main] INFO  testCases.TC001_LoginTest - Entering into Create Inbound InstSupInvNo Screen.. 
+16:30:12:921 [main] INFO  testCases.TC001_LoginTest - Successfully Entered into Create Inbound InstSupInvNo Screen.. 
+16:30:12:921 [main] INFO  testCases.TC001_LoginTest - Navigating to Transaction Type Screen..
+16:30:13:210 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type.
+16:30:17:037 [main] INFO  testCases.TC001_LoginTest - Entering Into Action Screen Of Create Inbount Instruction SupIn..
+16:30:17:743 [main] INFO  testCases.TC001_LoginTest - Successfully Created Inbount Instruction SupIn.
+16:30:25:819 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC006_CreateInboundInstructionBySupInvNo Test ***************
+16:30:25:819 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC007_ConfirmInboundInstructionPacks Test **********
+16:30:25:819 [main] INFO  testCases.TC001_LoginTest - Entering Into the Confirm Inbound Instruction Packs Screen..
+16:30:26:541 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Inbound Instruction Packs screen.
+16:30:26:541 [main] INFO  testCases.TC001_LoginTest - Navigating To Transaction Type screen..
+16:30:26:894 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and Clicked On Search Button.
+16:30:29:657 [main] INFO  testCases.TC001_LoginTest - Entering Into the Action Screen of ConfirmInboundPacks and Applying Packs Status..
+16:30:32:556 [main] INFO  testCases.TC001_LoginTest - Successfully Applied Packs Status and Confirm Inbound Pack Created Successfully.
+16:30:38:108 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC007_ConfirmInboundInstructionPacks Test ***************
+16:51:43:713 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC001_LoginPage Test **********
+16:51:43:808 [main] INFO  testCases.TC001_LoginTest - ********** UserName is Entered **********
+16:51:43:876 [main] INFO  testCases.TC001_LoginTest - ********** Password Entered **********
+16:51:43:949 [main] INFO  testCases.TC001_LoginTest - ********** Successfully Clicked On Login Button **********
+16:51:49:008 [main] INFO  testCases.TC001_LoginTest - ********** Validating Expected Message.. **********
+16:51:49:008 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC001_LoginTest ***************
+16:51:49:008 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC002 HomePage Test **********
+16:51:50:916 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC002 HomePage Test ***************
+16:51:50:916 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC003_CreatePurchaseOrder Test **********
+16:51:50:916 [main] INFO  testCases.TC001_LoginTest - Started Into Purchase Order Creation..
+16:51:51:285 [main] INFO  testCases.TC001_LoginTest - Successfully navigated to Create Purchase Order Screen
+16:51:51:285 [main] INFO  testCases.TC001_LoginTest - Passing supplier, TradeTerm, OrderType & ShipMode..
+16:51:53:832 [main] INFO  testCases.TC001_LoginTest - Successfully Set supplier, TradeTerm, OrderType & ShipMode..
+16:51:54:144 [main] INFO  testCases.TC001_LoginTest - Successfully set Puchase RefNo and Today Date Picker
+16:51:54:144 [main] INFO  testCases.TC001_LoginTest - Started.. Adding SKU Codes into the PO Gride..
+16:52:05:526 [main] INFO  testCases.TC001_LoginTest - Successfully Added all the SKUs to Po Gride.
+16:52:05:526 [main] INFO  testCases.TC001_LoginTest - Started Entering Quantity into each SKUs..
+16:52:12:624 [main] INFO  testCases.TC001_LoginTest - Successfully Entered all the Quantities and Clicked On SavePurchaseOrder.
+16:52:14:741 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC003_CreatePurchaseOrder Test ***************
+16:52:14:745 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC004_CreateAdvancedShippingNotices Test **********
+16:52:14:745 [main] INFO  testCases.TC001_LoginTest -  Started Navigating to Create ASN Screen..
+16:52:15:363 [main] INFO  testCases.TC001_LoginTest -  Successfully Navigated to Create ASN Screen.
+16:52:15:751 [main] INFO  testCases.TC001_LoginTest - Started Set SupplierCode and Clicking on Header Checkbox..
+16:52:16:276 [main] INFO  testCases.TC001_LoginTest - Successfully Set SupplierCode and Clicking on Header Checkbox..
+16:52:16:342 [main] INFO  testCases.TC001_LoginTest - Started Set ShipForm, TradeTerm, ShipMode, TodayDatePicker..
+16:52:16:988 [main] INFO  testCases.TC001_LoginTest - Successfully Set ShipForm, TradeTerm, ShipMode, TodayDatePicker.
+16:52:17:063 [main] INFO  testCases.TC001_LoginTest - Started Providing Details To Vehicle Detail Page..
+16:52:24:181 [main] INFO  testCases.TC001_LoginTest - Successfully Set VehicleNo, VehicleName, ContainerDetails, TrailerDetails etc..
+16:52:24:185 [main] INFO  testCases.TC001_LoginTest - Started Chossing Existing PO Details...
+16:52:39:446 [main] INFO  testCases.TC001_LoginTest - Successfully Chossen Existing PO Details...
+16:52:39:448 [main] INFO  testCases.TC001_LoginTest - Started Providing Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+16:52:52:996 [main] INFO  testCases.TC001_LoginTest - Successfully Provided Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+16:52:54:235 [main] INFO  testCases.TC001_LoginTest - Successfully Clicked on NEXT button & Navigated to Next page of Create ASN.
+16:52:56:756 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC004_CreateAdvancedShippingNotices Test ***************
+16:52:56:765 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC005_CreateVehicleIn Test **********
+16:52:56:765 [main] INFO  testCases.TC001_LoginTest - Entering To Create Vehicle In Screen..
+16:52:59:341 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Vehicle In Screen.
+16:52:59:342 [main] INFO  testCases.TC001_LoginTest - Searching.. for Vehicle Number..
+16:53:05:358 [main] INFO  testCases.TC001_LoginTest - Vehicle Number Is Successfully Selected.
+16:53:05:358 [main] INFO  testCases.TC001_LoginTest - Entered Into Operation Type Selection Section..
+16:53:09:297 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Operation Type and Navigated to Next screen.
+16:53:09:297 [main] INFO  testCases.TC001_LoginTest - Enter Into the Transaction Type Section..
+16:53:09:761 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and To-Location.
+16:53:13:626 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC005_CreateVehicleIn Test ***************
+16:53:13:626 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC006_CreateInboundInstructionBySupInvNo Test **********
+16:53:13:626 [main] INFO  testCases.TC001_LoginTest - Entering into Create Inbound InstSupInvNo Screen.. 
+16:53:14:760 [main] INFO  testCases.TC001_LoginTest - Successfully Entered into Create Inbound InstSupInvNo Screen.. 
+16:53:14:760 [main] INFO  testCases.TC001_LoginTest - Navigating to Transaction Type Screen..
+16:53:15:068 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type.
+16:53:18:222 [main] INFO  testCases.TC001_LoginTest - Entering Into Action Screen Of Create Inbount Instruction SupIn..
+16:53:19:032 [main] INFO  testCases.TC001_LoginTest - Successfully Created Inbount Instruction SupIn.
+16:53:25:698 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC006_CreateInboundInstructionBySupInvNo Test ***************
+16:53:25:701 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC007_ConfirmInboundInstructionPacks Test **********
+16:53:25:701 [main] INFO  testCases.TC001_LoginTest - Entering Into the Confirm Inbound Instruction Packs Screen..
+16:53:26:466 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Inbound Instruction Packs screen.
+16:53:26:466 [main] INFO  testCases.TC001_LoginTest - Navigating To Transaction Type screen..
+16:53:26:910 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and Clicked On Search Button.
+16:53:29:547 [main] INFO  testCases.TC001_LoginTest - Entering Into the Action Screen of ConfirmInboundPacks and Applying Packs Status..
+16:53:32:731 [main] INFO  testCases.TC001_LoginTest - Successfully Applied Packs Status and Confirm Inbound Pack Created Successfully.
+16:53:38:397 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC007_ConfirmInboundInstructionPacks Test ***************
+16:53:38:401 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC008_CreateSalesOrder Test **********
+16:53:38:401 [main] INFO  testCases.TC001_LoginTest - Entering Into Outbound Flow....
+16:53:38:401 [main] INFO  testCases.TC001_LoginTest - Navigating Create Sales Order Home Screen...
+16:53:39:267 [main] INFO  testCases.TC001_LoginTest - Successfully Navigated To Create Sales Order Screen.
+16:53:39:267 [main] INFO  testCases.TC001_LoginTest - Providing Random External Order Refrence Number..
+16:53:42:053 [main] INFO  testCases.TC001_LoginTest - Successfully Passed Random External Order Number In SO Screen.
+16:53:42:053 [main] INFO  testCases.TC001_LoginTest - Started Setting TradeTerm, SOType, BillTo, ShipTo details..
+16:53:45:770 [main] INFO  testCases.TC001_LoginTest - Successfully Setted TradeTerm, SOType, BillTo, ShipTo details..
+16:53:45:770 [main] INFO  testCases.TC001_LoginTest - Adding All the SKUs to the SKUsGride Section in SO screen..
+16:53:53:171 [main] INFO  testCases.TC001_LoginTest - Successfully Added All the Related SKUs to the SKU Grid in SO screen.
+16:53:53:171 [main] INFO  testCases.TC001_LoginTest - Passing Shared Data Batch Details like BatchNo, MfgDate, Qty To the SKUs..
+16:54:16:763 [main] INFO  testCases.TC001_LoginTest - Successfully Inserted All Batch Details ans Sales Order Created Successfully.
+16:57:07:534 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC001_LoginPage Test **********
+16:57:07:625 [main] INFO  testCases.TC001_LoginTest - ********** UserName is Entered **********
+16:57:07:733 [main] INFO  testCases.TC001_LoginTest - ********** Password Entered **********
+16:57:07:845 [main] INFO  testCases.TC001_LoginTest - ********** Successfully Clicked On Login Button **********
+16:57:12:888 [main] INFO  testCases.TC001_LoginTest - ********** Validating Expected Message.. **********
+16:57:12:888 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC001_LoginTest ***************
+16:57:12:909 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC002 HomePage Test **********
+16:57:14:900 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC002 HomePage Test ***************
+16:57:14:901 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC003_CreatePurchaseOrder Test **********
+16:57:14:901 [main] INFO  testCases.TC001_LoginTest - Started Into Purchase Order Creation..
+16:57:15:290 [main] INFO  testCases.TC001_LoginTest - Successfully navigated to Create Purchase Order Screen
+16:57:15:290 [main] INFO  testCases.TC001_LoginTest - Passing supplier, TradeTerm, OrderType & ShipMode..
+16:57:18:062 [main] INFO  testCases.TC001_LoginTest - Successfully Set supplier, TradeTerm, OrderType & ShipMode..
+16:57:18:447 [main] INFO  testCases.TC001_LoginTest - Successfully set Puchase RefNo and Today Date Picker
+16:57:18:447 [main] INFO  testCases.TC001_LoginTest - Started.. Adding SKU Codes into the PO Gride..
+16:57:30:312 [main] INFO  testCases.TC001_LoginTest - Successfully Added all the SKUs to Po Gride.
+16:57:30:312 [main] INFO  testCases.TC001_LoginTest - Started Entering Quantity into each SKUs..
+16:57:31:693 [main] ERROR testCases.TC001_LoginTest - Test Failed...
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=152.0.7977.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0408359e66f70ed91d8b7b24dec58b91, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.380132F7195FCF3F33D0FCA007681288.d.53DA579BAFD97C1FE6073296AA124ADB.e.645}], script=arguments[0].scrollIntoView({block:'center'});}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.83, chrome: {chromedriverVersion: 152.0.7977.82 (d04cdb24d67b..., userDataDir: C:\Users\ravi.v\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63971}, goog:processID: 11420, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63971/devtoo..., se:cdpVersion: 152.0.7977.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0408359e66f70ed91d8b7b24dec58b91
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:575)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:504)
+	at pageObjects.SearchPurchaseOrderSKUsGride.enterQuantity(SearchPurchaseOrderSKUsGride.java:45)
+	at testCases.TC003_CreatePurchaseOrder.verify_CreatePurchaseOrder(TC003_CreatePurchaseOrder.java:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+16:57:31:699 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC004_CreateAdvancedShippingNotices Test **********
+16:57:31:699 [main] INFO  testCases.TC001_LoginTest -  Started Navigating to Create ASN Screen..
+16:57:32:201 [main] INFO  testCases.TC001_LoginTest -  Successfully Navigated to Create ASN Screen.
+16:57:32:676 [main] INFO  testCases.TC001_LoginTest - Started Set SupplierCode and Clicking on Header Checkbox..
+16:57:33:154 [main] INFO  testCases.TC001_LoginTest - Successfully Set SupplierCode and Clicking on Header Checkbox..
+16:57:33:276 [main] INFO  testCases.TC001_LoginTest - Started Set ShipForm, TradeTerm, ShipMode, TodayDatePicker..
+16:57:34:081 [main] INFO  testCases.TC001_LoginTest - Successfully Set ShipForm, TradeTerm, ShipMode, TodayDatePicker.
+16:57:34:168 [main] INFO  testCases.TC001_LoginTest - Started Providing Details To Vehicle Detail Page..
+16:57:41:620 [main] INFO  testCases.TC001_LoginTest - Successfully Set VehicleNo, VehicleName, ContainerDetails, TrailerDetails etc..
+16:57:41:620 [main] INFO  testCases.TC001_LoginTest - Started Chossing Existing PO Details...
+16:57:57:189 [main] INFO  testCases.TC001_LoginTest - Successfully Chossen Existing PO Details...
+16:57:57:189 [main] INFO  testCases.TC001_LoginTest - Started Providing Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+16:58:11:360 [main] INFO  testCases.TC001_LoginTest - Successfully Provided Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+16:58:12:584 [main] INFO  testCases.TC001_LoginTest - Successfully Clicked on NEXT button & Navigated to Next page of Create ASN.
+16:58:15:462 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC004_CreateAdvancedShippingNotices Test ***************
+16:58:15:474 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC005_CreateVehicleIn Test **********
+16:58:15:474 [main] INFO  testCases.TC001_LoginTest - Entering To Create Vehicle In Screen..
+16:58:18:161 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Vehicle In Screen.
+16:58:18:161 [main] INFO  testCases.TC001_LoginTest - Searching.. for Vehicle Number..
+16:58:24:092 [main] INFO  testCases.TC001_LoginTest - Vehicle Number Is Successfully Selected.
+16:58:24:092 [main] INFO  testCases.TC001_LoginTest - Entered Into Operation Type Selection Section..
+16:58:28:059 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Operation Type and Navigated to Next screen.
+16:58:28:059 [main] INFO  testCases.TC001_LoginTest - Enter Into the Transaction Type Section..
+16:58:28:649 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and To-Location.
+16:58:33:567 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC005_CreateVehicleIn Test ***************
+16:58:33:569 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC006_CreateInboundInstructionBySupInvNo Test **********
+16:58:33:569 [main] INFO  testCases.TC001_LoginTest - Entering into Create Inbound InstSupInvNo Screen.. 
+16:58:34:690 [main] INFO  testCases.TC001_LoginTest - Successfully Entered into Create Inbound InstSupInvNo Screen.. 
+16:58:34:690 [main] INFO  testCases.TC001_LoginTest - Navigating to Transaction Type Screen..
+16:58:35:081 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type.
+16:58:38:295 [main] INFO  testCases.TC001_LoginTest - Entering Into Action Screen Of Create Inbount Instruction SupIn..
+16:58:39:089 [main] INFO  testCases.TC001_LoginTest - Successfully Created Inbount Instruction SupIn.
+16:58:45:753 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC006_CreateInboundInstructionBySupInvNo Test ***************
+16:58:45:755 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC007_ConfirmInboundInstructionPacks Test **********
+16:58:45:755 [main] INFO  testCases.TC001_LoginTest - Entering Into the Confirm Inbound Instruction Packs Screen..
+16:58:46:533 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Inbound Instruction Packs screen.
+16:58:46:533 [main] INFO  testCases.TC001_LoginTest - Navigating To Transaction Type screen..
+16:58:46:968 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and Clicked On Search Button.
+16:59:17:534 [main] ERROR testCases.TC001_LoginTest - Test Failed...
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //td[@cellindex='50']//div[normalize-space()='PO-REFIWE-63134673'], but no elements were found
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.83, chrome: {chromedriverVersion: 152.0.7977.82 (d04cdb24d67b..., userDataDir: C:\Users\ravi.v\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63971}, goog:processID: 11420, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63971/devtoo..., se:cdpVersion: 152.0.7977.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0408359e66f70ed91d8b7b24dec58b91
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+	at pageObjects.InbounConfirmInboundInstPacksCheckBoxsSelect.selectRowsByPurchaseReference(InbounConfirmInboundInstPacksCheckBoxsSelect.java:27)
+	at testCases.TC007_ConfirmInboundInstructionPacks.verify_TC007_ConfirmInboundInstructionPacks(TC007_ConfirmInboundInstructionPacks.java:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+16:59:17:547 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC008_CreateSalesOrder Test **********
+16:59:17:576 [main] INFO  testCases.TC001_LoginTest - Entering Into Outbound Flow....
+16:59:17:576 [main] INFO  testCases.TC001_LoginTest - Navigating Create Sales Order Home Screen...
+16:59:18:283 [main] INFO  testCases.TC001_LoginTest - Successfully Navigated To Create Sales Order Screen.
+16:59:18:283 [main] INFO  testCases.TC001_LoginTest - Providing Random External Order Refrence Number..
+16:59:20:530 [main] INFO  testCases.TC001_LoginTest - Successfully Passed Random External Order Number In SO Screen.
+16:59:20:530 [main] INFO  testCases.TC001_LoginTest - Started Setting TradeTerm, SOType, BillTo, ShipTo details..
+16:59:24:545 [main] INFO  testCases.TC001_LoginTest - Successfully Setted TradeTerm, SOType, BillTo, ShipTo details..
+16:59:24:545 [main] INFO  testCases.TC001_LoginTest - Adding All the SKUs to the SKUsGride Section in SO screen..
+16:59:32:356 [main] INFO  testCases.TC001_LoginTest - Successfully Added All the Related SKUs to the SKU Grid in SO screen.
+16:59:32:360 [main] INFO  testCases.TC001_LoginTest - Passing Shared Data Batch Details like BatchNo, MfgDate, Qty To the SKUs..
+16:59:52:120 [main] ERROR testCases.TC001_LoginTest - Test Failed...
+java.lang.RuntimeException: Unable to select MFG Date for SKU 100324 after 3 attempts.
+	at pageObjects.CreateSalesOrderGridOrderedSKUsForBatchDetails.selectMfgDateToday(CreateSalesOrderGridOrderedSKUsForBatchDetails.java:212)
+	at testCases.TC008_CreateSalesOrder.verify_TC008_CreateSalesOrder(TC008_CreateSalesOrder.java:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+17:00:40:068 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC001_LoginPage Test **********
+17:00:40:158 [main] INFO  testCases.TC001_LoginTest - ********** UserName is Entered **********
+17:00:40:234 [main] INFO  testCases.TC001_LoginTest - ********** Password Entered **********
+17:00:40:325 [main] INFO  testCases.TC001_LoginTest - ********** Successfully Clicked On Login Button **********
+17:00:45:371 [main] INFO  testCases.TC001_LoginTest - ********** Validating Expected Message.. **********
+17:00:45:371 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC001_LoginTest ***************
+17:00:45:390 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC002 HomePage Test **********
+17:00:47:433 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC002 HomePage Test ***************
+17:00:47:447 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC003_CreatePurchaseOrder Test **********
+17:00:47:450 [main] INFO  testCases.TC001_LoginTest - Started Into Purchase Order Creation..
+17:00:47:824 [main] INFO  testCases.TC001_LoginTest - Successfully navigated to Create Purchase Order Screen
+17:00:47:824 [main] INFO  testCases.TC001_LoginTest - Passing supplier, TradeTerm, OrderType & ShipMode..
+17:00:50:741 [main] INFO  testCases.TC001_LoginTest - Successfully Set supplier, TradeTerm, OrderType & ShipMode..
+17:00:51:104 [main] INFO  testCases.TC001_LoginTest - Successfully set Puchase RefNo and Today Date Picker
+17:00:51:104 [main] INFO  testCases.TC001_LoginTest - Started.. Adding SKU Codes into the PO Gride..
+17:01:03:038 [main] INFO  testCases.TC001_LoginTest - Successfully Added all the SKUs to Po Gride.
+17:01:03:038 [main] INFO  testCases.TC001_LoginTest - Started Entering Quantity into each SKUs..
+17:01:04:434 [main] ERROR testCases.TC001_LoginTest - Test Failed...
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=152.0.7977.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4027975c9b1ff9a9614efd1186efc757, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.F5DA4B8C919C1B6DCF7CA09B5502D867.d.417CEB3FFD3CBBD1D8D02FC1E3BAEE7A.e.648}], script=arguments[0].scrollIntoView({block:'center'});}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.83, chrome: {chromedriverVersion: 152.0.7977.82 (d04cdb24d67b..., userDataDir: C:\Users\ravi.v\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56075}, goog:processID: 19080, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56075/devtoo..., se:cdpVersion: 152.0.7977.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4027975c9b1ff9a9614efd1186efc757
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:575)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:504)
+	at pageObjects.SearchPurchaseOrderSKUsGride.enterQuantity(SearchPurchaseOrderSKUsGride.java:45)
+	at testCases.TC003_CreatePurchaseOrder.verify_CreatePurchaseOrder(TC003_CreatePurchaseOrder.java:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+17:01:04:445 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC004_CreateAdvancedShippingNotices Test **********
+17:01:04:445 [main] INFO  testCases.TC001_LoginTest -  Started Navigating to Create ASN Screen..
+17:01:04:937 [main] INFO  testCases.TC001_LoginTest -  Successfully Navigated to Create ASN Screen.
+17:01:05:369 [main] INFO  testCases.TC001_LoginTest - Started Set SupplierCode and Clicking on Header Checkbox..
+17:01:05:856 [main] INFO  testCases.TC001_LoginTest - Successfully Set SupplierCode and Clicking on Header Checkbox..
+17:01:05:984 [main] INFO  testCases.TC001_LoginTest - Started Set ShipForm, TradeTerm, ShipMode, TodayDatePicker..
+17:01:06:772 [main] INFO  testCases.TC001_LoginTest - Successfully Set ShipForm, TradeTerm, ShipMode, TodayDatePicker.
+17:01:06:869 [main] INFO  testCases.TC001_LoginTest - Started Providing Details To Vehicle Detail Page..
+17:01:27:912 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC001_LoginPage Test **********
+17:01:28:006 [main] INFO  testCases.TC001_LoginTest - ********** UserName is Entered **********
+17:01:28:104 [main] INFO  testCases.TC001_LoginTest - ********** Password Entered **********
+17:01:28:199 [main] INFO  testCases.TC001_LoginTest - ********** Successfully Clicked On Login Button **********
+17:01:33:272 [main] INFO  testCases.TC001_LoginTest - ********** Validating Expected Message.. **********
+17:01:33:272 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC001_LoginTest ***************
+17:01:33:283 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC002 HomePage Test **********
+17:01:35:284 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC002 HomePage Test ***************
+17:01:35:288 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC003_CreatePurchaseOrder Test **********
+17:01:35:290 [main] INFO  testCases.TC001_LoginTest - Started Into Purchase Order Creation..
+17:01:35:684 [main] INFO  testCases.TC001_LoginTest - Successfully navigated to Create Purchase Order Screen
+17:01:35:684 [main] INFO  testCases.TC001_LoginTest - Passing supplier, TradeTerm, OrderType & ShipMode..
+17:01:38:528 [main] INFO  testCases.TC001_LoginTest - Successfully Set supplier, TradeTerm, OrderType & ShipMode..
+17:01:38:928 [main] INFO  testCases.TC001_LoginTest - Successfully set Puchase RefNo and Today Date Picker
+17:01:38:928 [main] INFO  testCases.TC001_LoginTest - Started.. Adding SKU Codes into the PO Gride..
+17:01:50:913 [main] INFO  testCases.TC001_LoginTest - Successfully Added all the SKUs to Po Gride.
+17:01:50:913 [main] INFO  testCases.TC001_LoginTest - Started Entering Quantity into each SKUs..
+17:01:52:304 [main] ERROR testCases.TC001_LoginTest - Test Failed...
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=152.0.7977.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ff409cca6bbfcb8b537c0446364ce671, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.B53BAC656F7D2EF9E896547BB5C2CED8.d.7AFD8171A047A02C901CC17CAE26FA17.e.645}], script=arguments[0].scrollIntoView({block:'center'});}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.83, chrome: {chromedriverVersion: 152.0.7977.82 (d04cdb24d67b..., userDataDir: C:\Users\ravi.v\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58753}, goog:processID: 8544, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58753/devtoo..., se:cdpVersion: 152.0.7977.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ff409cca6bbfcb8b537c0446364ce671
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:575)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:504)
+	at pageObjects.SearchPurchaseOrderSKUsGride.enterQuantity(SearchPurchaseOrderSKUsGride.java:45)
+	at testCases.TC003_CreatePurchaseOrder.verify_CreatePurchaseOrder(TC003_CreatePurchaseOrder.java:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+17:01:52:312 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC004_CreateAdvancedShippingNotices Test **********
+17:01:52:312 [main] INFO  testCases.TC001_LoginTest -  Started Navigating to Create ASN Screen..
+17:01:52:763 [main] INFO  testCases.TC001_LoginTest -  Successfully Navigated to Create ASN Screen.
+17:01:53:234 [main] INFO  testCases.TC001_LoginTest - Started Set SupplierCode and Clicking on Header Checkbox..
+17:01:53:704 [main] INFO  testCases.TC001_LoginTest - Successfully Set SupplierCode and Clicking on Header Checkbox..
+17:01:53:787 [main] INFO  testCases.TC001_LoginTest - Started Set ShipForm, TradeTerm, ShipMode, TodayDatePicker..
+17:01:54:675 [main] INFO  testCases.TC001_LoginTest - Successfully Set ShipForm, TradeTerm, ShipMode, TodayDatePicker.
+17:01:54:771 [main] INFO  testCases.TC001_LoginTest - Started Providing Details To Vehicle Detail Page..
+17:02:02:305 [main] INFO  testCases.TC001_LoginTest - Successfully Set VehicleNo, VehicleName, ContainerDetails, TrailerDetails etc..
+17:02:02:311 [main] INFO  testCases.TC001_LoginTest - Started Chossing Existing PO Details...
+17:02:17:961 [main] INFO  testCases.TC001_LoginTest - Successfully Chossen Existing PO Details...
+17:02:17:961 [main] INFO  testCases.TC001_LoginTest - Started Providing Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+17:02:32:133 [main] INFO  testCases.TC001_LoginTest - Successfully Provided Random Batch Details into ASN Grid Like BatchNo, MfgDate, InnerPacks Detail & ExpiryDate details..
+17:02:33:470 [main] INFO  testCases.TC001_LoginTest - Successfully Clicked on NEXT button & Navigated to Next page of Create ASN.
+17:02:36:829 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC004_CreateAdvancedShippingNotices Test ***************
+17:02:36:833 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC005_CreateVehicleIn Test **********
+17:02:36:833 [main] INFO  testCases.TC001_LoginTest - Entering To Create Vehicle In Screen..
+17:02:39:446 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Vehicle In Screen.
+17:02:39:446 [main] INFO  testCases.TC001_LoginTest - Searching.. for Vehicle Number..
+17:02:45:490 [main] INFO  testCases.TC001_LoginTest - Vehicle Number Is Successfully Selected.
+17:02:45:490 [main] INFO  testCases.TC001_LoginTest - Entered Into Operation Type Selection Section..
+17:02:49:601 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Operation Type and Navigated to Next screen.
+17:02:49:601 [main] INFO  testCases.TC001_LoginTest - Enter Into the Transaction Type Section..
+17:02:50:163 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and To-Location.
+17:02:56:604 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC005_CreateVehicleIn Test ***************
+17:02:56:606 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC006_CreateInboundInstructionBySupInvNo Test **********
+17:02:56:608 [main] INFO  testCases.TC001_LoginTest - Entering into Create Inbound InstSupInvNo Screen.. 
+17:02:57:732 [main] INFO  testCases.TC001_LoginTest - Successfully Entered into Create Inbound InstSupInvNo Screen.. 
+17:02:57:732 [main] INFO  testCases.TC001_LoginTest - Navigating to Transaction Type Screen..
+17:02:58:075 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type.
+17:03:01:263 [main] INFO  testCases.TC001_LoginTest - Entering Into Action Screen Of Create Inbount Instruction SupIn..
+17:03:02:146 [main] INFO  testCases.TC001_LoginTest - Successfully Created Inbount Instruction SupIn.
+17:03:09:002 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC006_CreateInboundInstructionBySupInvNo Test ***************
+17:03:09:002 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC007_ConfirmInboundInstructionPacks Test **********
+17:03:09:002 [main] INFO  testCases.TC001_LoginTest - Entering Into the Confirm Inbound Instruction Packs Screen..
+17:03:09:812 [main] INFO  testCases.TC001_LoginTest - Successfully Entered Into Inbound Instruction Packs screen.
+17:03:09:812 [main] INFO  testCases.TC001_LoginTest - Navigating To Transaction Type screen..
+17:03:10:193 [main] INFO  testCases.TC001_LoginTest - Successfully Selected Transaction Type and Clicked On Search Button.
+17:57:47:514 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC001_LoginPage Test **********
+17:57:47:621 [main] INFO  testCases.TC001_LoginTest - ********** UserName is Entered **********
+17:57:47:723 [main] INFO  testCases.TC001_LoginTest - ********** Password Entered **********
+17:57:47:818 [main] INFO  testCases.TC001_LoginTest - ********** Successfully Clicked On Login Button **********
+17:57:52:878 [main] INFO  testCases.TC001_LoginTest - ********** Validating Expected Message.. **********
+17:57:52:878 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC001_LoginTest ***************
+17:57:52:878 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC002 HomePage Test **********
+17:57:55:031 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC002 HomePage Test ***************
+17:57:55:031 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC003_CreatePurchaseOrder Test **********
+17:57:55:031 [main] INFO  testCases.TC001_LoginTest - Started Into Purchase Order Creation..
+17:57:55:420 [main] INFO  testCases.TC001_LoginTest - Successfully navigated to Create Purchase Order Screen
+17:57:55:420 [main] INFO  testCases.TC001_LoginTest - Passing supplier, TradeTerm, OrderType & ShipMode..
+17:57:58:410 [main] INFO  testCases.TC001_LoginTest - Successfully Set supplier, TradeTerm, OrderType & ShipMode..
+17:57:58:935 [main] INFO  testCases.TC001_LoginTest - Successfully set Puchase RefNo and Today Date Picker
+17:57:58:935 [main] INFO  testCases.TC001_LoginTest - Started.. Adding SKU Codes into the PO Gride..
+17:58:11:282 [main] INFO  testCases.TC001_LoginTest - Successfully Added all the SKUs to Po Gride.
+17:58:11:282 [main] INFO  testCases.TC001_LoginTest - Started Entering Quantity into each SKUs..
+17:58:13:329 [main] INFO  testCases.TC001_LoginTest - Successfully Entered all the Quantities and Clicked On SavePurchaseOrder.
+17:58:18:738 [main] INFO  testCases.TC001_LoginTest - *************** Finished TC003_CreatePurchaseOrder Test ***************
+17:58:18:738 [main] INFO  testCases.TC001_LoginTest - ********** Starting TC004_CreateAdvancedShippingNotices Test **********
+17:58:18:738 [main] INFO  testCases.TC001_LoginTest -  Started Navigating to Create ASN Screen..
+17:58:19:456 [main] INFO  testCases.TC001_LoginTest -  Successfully Navigated to Create ASN Screen.
+17:58:19:954 [main] INFO  testCases.TC001_LoginTest - Started Set SupplierCode and Clicking on Header Checkbox..
+17:58:20:506 [main] INFO  testCases.TC001_LoginTest - Successfully Set SupplierCode and Clicking on Header Checkbox..
+17:58:20:657 [main] INFO  testCases.TC001_LoginTest - Started Set ShipForm, TradeTerm, ShipMode, TodayDatePicker..
+17:58:21:729 [main] INFO  testCases.TC001_LoginTest - Successfully Set ShipForm, TradeTerm, ShipMode, TodayDatePicker.
+17:58:21:840 [main] INFO  testCases.TC001_LoginTest - Started Providing Details To Vehicle Detail Page..
+17:58:29:599 [main] INFO  testCases.TC001_LoginTest - Successfully Set VehicleNo, VehicleName, ContainerDetails, TrailerDetails etc..
+17:58:29:599 [main] INFO  testCases.TC001_LoginTest - Started Chossing Existing PO Details...
+17:58:45:367 [main] INFO  testCases.TC001_LoginTest - Successfully Chossen Existing PO Details...

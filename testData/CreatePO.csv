@@ -1,0 +1,4 @@
+PrimaryCompanyCode,WarehouseCode,CostBucketCode,SupplierCode,PurchaseOrderDate,PurchaseReferenceNo,PurchaseReferenceLineNo,PurchaseOrderTypeCode,ShippingModeCode,DefaultTradeTermCode,SKUCode,OrderingUOMCode,OrderedQuantityInOrderingUOM,AddDocRefNo,AddDocRefLineNo,FreighterCode,EstimatedTimeOfArrival,SupplierCurrency,PurchasePrice,ExchangeRate
+GGN15,DJT ESR,Normal,GGN15,03-10-2026,POREFDT-DRIVE126,1,Planned,ROAD,EX-W/H,100324,PCS,3,,,,,INR,,1
+GGN15,DJT ESR,Normal,GGN15,03-10-2026,POREFDT-DRIVE126,2,Planned,ROAD,EX-W/H,100387,PCS,3,,,,,INR,,1
+GGN15,DJT ESR,Normal,GGN15,03-10-2026,POREFDT-DRIVE126,3,Planned,ROAD,EX-W/H,100320,PCS,3,,,,,INR,,1

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-03T15:05:56 IST" name="Master Suite" finished-at="2026-10-03T15:08:24 IST" duration-ms="147756">
+    <groups>
+      <group name="Smoke_ExceptionPacks">
+        <method signature="TC001_LoginTest.verify_TC001_LoginTest()[pri:0, instance:testCases.TC001_LoginTest@7770f470]" name="verify_TC001_LoginTest" class="testCases.TC001_LoginTest"/>
+        <method signature="TC002_HomePage.verify_TC002_HomePage()[pri:0, instance:testCases.TC002_HomePage@6c40365c]" name="verify_TC002_HomePage" class="testCases.TC002_HomePage"/>
+        <method signature="TC003_CreatePurchaseOrder.verify_TC003_CreatePurchaseOrder()[pri:0, instance:testCases.TC003_CreatePurchaseOrder@7bedc48a]" name="verify_TC003_CreatePurchaseOrder" class="testCases.TC003_CreatePurchaseOrder"/>
+        <method signature="TC004_CreateAdvancedShippingNotices.verify_TC004_CreateAdvancedShippingNotices()[pri:0, instance:testCases.TC004_CreateAdvancedShippingNotices@131ef10]" name="verify_TC004_CreateAdvancedShippingNotices" class="testCases.TC004_CreateAdvancedShippingNotices"/>
+        <method signature="TC005_CreateVehicleIn.verify_TC005_CreateVehicleIn()[pri:0, instance:testCases.TC005_CreateVehicleIn@55b0dcab]" name="verify_TC005_CreateVehicleIn" class="testCases.TC005_CreateVehicleIn"/>
+        <method signature="TC006_CreateInboundInstructionBySupInvNo.verify_TC006_CreateInboundInstructionBySupInvNo()[pri:0, instance:testCases.TC006_CreateInboundInstructionBySupInvNo@38afe297]" name="verify_TC006_CreateInboundInstructionBySupInvNo" class="testCases.TC006_CreateInboundInstructionBySupInvNo"/>
+        <method signature="TC020_ConfirmInboundInstructionPacksExceptions.verify_TC020_ConfirmInboundInstructionPacksExceptions()[pri:0, instance:testCases.TC020_ConfirmInboundInstructionPacksExceptions@2df3b89c]" name="verify_TC020_ConfirmInboundInstructionPacksExceptions" class="testCases.TC020_ConfirmInboundInstructionPacksExceptions"/>
+        <method signature="TC021_ExceptionsPacksMovementsInInventory.verify_TC021_ExceptionsPacksMovementsInInventory()[pri:0, instance:testCases.TC021_ExceptionsPacksMovementsInInventory@23348b5d]" name="verify_TC021_ExceptionsPacksMovementsInInventory" class="testCases.TC021_ExceptionsPacksMovementsInInventory"/>
+      </group> <!-- Smoke_ExceptionPacks -->
+      <group name="Master_UI_PacksFlow">
+        <method signature="TC001_LoginTest.verify_TC001_LoginTest()[pri:0, instance:testCases.TC001_LoginTest@7770f470]" name="verify_TC001_LoginTest" class="testCases.TC001_LoginTest"/>
+        <method signature="TC002_HomePage.verify_TC002_HomePage()[pri:0, instance:testCases.TC002_HomePage@6c40365c]" name="verify_TC002_HomePage" class="testCases.TC002_HomePage"/>
+        <method signature="TC003_CreatePurchaseOrder.verify_TC003_CreatePurchaseOrder()[pri:0, instance:testCases.TC003_CreatePurchaseOrder@7bedc48a]" name="verify_TC003_CreatePurchaseOrder" class="testCases.TC003_CreatePurchaseOrder"/>
+        <method signature="TC004_CreateAdvancedShippingNotices.verify_TC004_CreateAdvancedShippingNotices()[pri:0, instance:testCases.TC004_CreateAdvancedShippingNotices@131ef10]" name="verify_TC004_CreateAdvancedShippingNotices" class="testCases.TC004_CreateAdvancedShippingNotices"/>
+        <method signature="TC005_CreateVehicleIn.verify_TC005_CreateVehicleIn()[pri:0, instance:testCases.TC005_CreateVehicleIn@55b0dcab]" name="verify_TC005_CreateVehicleIn" class="testCases.TC005_CreateVehicleIn"/>
+        <method signature="TC006_CreateInboundInstructionBySupInvNo.verify_TC006_CreateInboundInstructionBySupInvNo()[pri:0, instance:testCases.TC006_CreateInboundInstructionBySupInvNo@38afe297]" name="verify_TC006_CreateInboundInstructionBySupInvNo" class="testCases.TC006_CreateInboundInstructionBySupInvNo"/>
+        <method signature="TC020_ConfirmInboundInstructionPacksExceptions.verify_TC020_ConfirmInboundInstructionPacksExceptions()[pri:0, instance:testCases.TC020_ConfirmInboundInstructionPacksExceptions@2df3b89c]" name="verify_TC020_ConfirmInboundInstructionPacksExceptions" class="testCases.TC020_ConfirmInboundInstructionPacksExceptions"/>
+      </group> <!-- Master_UI_PacksFlow -->
+      <group name="Regression_FileUpload_CSV">
+        <method signature="TC001_LoginTest.verify_TC001_LoginTest()[pri:0, instance:testCases.TC001_LoginTest@7770f470]" name="verify_TC001_LoginTest" class="testCases.TC001_LoginTest"/>
+        <method signature="TC005_CreateVehicleIn.verify_TC005_CreateVehicleIn()[pri:0, instance:testCases.TC005_CreateVehicleIn@55b0dcab]" name="verify_TC005_CreateVehicleIn" class="testCases.TC005_CreateVehicleIn"/>
+        <method signature="TC006_CreateInboundInstructionBySupInvNo.verify_TC006_CreateInboundInstructionBySupInvNo()[pri:0, instance:testCases.TC006_CreateInboundInstructionBySupInvNo@38afe297]" name="verify_TC006_CreateInboundInstructionBySupInvNo" class="testCases.TC006_CreateInboundInstructionBySupInvNo"/>
+        <method signature="TC020_ConfirmInboundInstructionPacksExceptions.verify_TC020_ConfirmInboundInstructionPacksExceptions()[pri:0, instance:testCases.TC020_ConfirmInboundInstructionPacksExceptions@2df3b89c]" name="verify_TC020_ConfirmInboundInstructionPacksExceptions" class="testCases.TC020_ConfirmInboundInstructionPacksExceptions"/>
+      </group> <!-- Regression_FileUpload_CSV -->
+    </groups>
+    <test started-at="2026-10-03T15:05:56 IST" name="Smoke_ExceptionPacks" finished-at="2026-10-03T15:08:24 IST" duration-ms="147756">
+      <class name="testCases.TC001_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginTest@7770f470]" started-at="2026-10-03T15:05:57 IST" name="setup" finished-at="2026-10-03T15:06:02 IST" duration-ms="5912" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_TC001_LoginTest()[pri:0, instance:testCases.TC001_LoginTest@7770f470]" started-at="2026-10-03T15:06:03 IST" name="verify_TC001_LoginTest" finished-at="2026-10-03T15:06:08 IST" duration-ms="5378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC001_LoginTest -->
+      </class> <!-- testCases.TC001_LoginTest -->
+      <class name="testCases.TC021_ExceptionsPacksMovementsInInventory">
+        <test-method signature="verify_TC021_ExceptionsPacksMovementsInInventory()[pri:0, instance:testCases.TC021_ExceptionsPacksMovementsInInventory@23348b5d]" started-at="2026-10-03T15:08:02 IST" name="verify_TC021_ExceptionsPacksMovementsInInventory" finished-at="2026-10-03T15:08:24 IST" duration-ms="21786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC021_ExceptionsPacksMovementsInInventory -->
+      </class> <!-- testCases.TC021_ExceptionsPacksMovementsInInventory -->
+      <class name="testCases.TC002_HomePage">
+        <test-method signature="verify_TC002_HomePage()[pri:0, instance:testCases.TC002_HomePage@6c40365c]" started-at="2026-10-03T15:06:08 IST" name="verify_TC002_HomePage" finished-at="2026-10-03T15:06:10 IST" duration-ms="1958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC002_HomePage -->
+      </class> <!-- testCases.TC002_HomePage -->
+      <class name="testCases.TC005_CreateVehicleIn">
+        <test-method signature="verify_TC005_CreateVehicleIn()[pri:0, instance:testCases.TC005_CreateVehicleIn@55b0dcab]" started-at="2026-10-03T15:07:15 IST" name="verify_TC005_CreateVehicleIn" finished-at="2026-10-03T15:07:33 IST" duration-ms="17527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC005_CreateVehicleIn -->
+      </class> <!-- testCases.TC005_CreateVehicleIn -->
+      <class name="testCases.TC004_CreateAdvancedShippingNotices">
+        <test-method signature="verify_TC004_CreateAdvancedShippingNotices()[pri:0, instance:testCases.TC004_CreateAdvancedShippingNotices@131ef10]" started-at="2026-10-03T15:06:32 IST" name="verify_TC004_CreateAdvancedShippingNotices" finished-at="2026-10-03T15:07:15 IST" duration-ms="42972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC004_CreateAdvancedShippingNotices -->
+      </class> <!-- testCases.TC004_CreateAdvancedShippingNotices -->
+      <class name="testCases.TC006_CreateInboundInstructionBySupInvNo">
+        <test-method signature="verify_TC006_CreateInboundInstructionBySupInvNo()[pri:0, instance:testCases.TC006_CreateInboundInstructionBySupInvNo@38afe297]" started-at="2026-10-03T15:07:33 IST" name="verify_TC006_CreateInboundInstructionBySupInvNo" finished-at="2026-10-03T15:07:49 IST" duration-ms="16254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC006_CreateInboundInstructionBySupInvNo -->
+      </class> <!-- testCases.TC006_CreateInboundInstructionBySupInvNo -->
+      <class name="testCases.TC003_CreatePurchaseOrder">
+        <test-method signature="verify_TC003_CreatePurchaseOrder()[pri:0, instance:testCases.TC003_CreatePurchaseOrder@7bedc48a]" started-at="2026-10-03T15:06:10 IST" name="verify_TC003_CreatePurchaseOrder" finished-at="2026-10-03T15:06:32 IST" duration-ms="22277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC003_CreatePurchaseOrder -->
+      </class> <!-- testCases.TC003_CreatePurchaseOrder -->
+      <class name="testCases.TC020_ConfirmInboundInstructionPacksExceptions">
+        <test-method signature="verify_TC020_ConfirmInboundInstructionPacksExceptions()[pri:0, instance:testCases.TC020_ConfirmInboundInstructionPacksExceptions@2df3b89c]" started-at="2026-10-03T15:07:49 IST" name="verify_TC020_ConfirmInboundInstructionPacksExceptions" finished-at="2026-10-03T15:08:02 IST" duration-ms="13353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TC020_ConfirmInboundInstructionPacksExceptions -->
+      </class> <!-- testCases.TC020_ConfirmInboundInstructionPacksExceptions -->
+    </test> <!-- Smoke_ExceptionPacks -->
+  </suite> <!-- Master Suite -->
+</testng-results>
